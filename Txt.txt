@@ -1,6 +1,2 @@
-Hola mundo!!
-<<<<<<< HEAD
-holaa
-=======
-holaaaa
->>>>>>> Develop
+Hola mundo!! Como vas?
+
